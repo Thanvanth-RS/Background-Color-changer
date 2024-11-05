@@ -1,2 +1,2 @@
-#Background color changer
+# Background color changer
 This is a simple web application that demonstrates the use of JavaScript, HTML, and CSS to create an interactive, visually appealing user interface. The project features a button that, when clicked, changes the background color of the page randomly from a predefined set of colors. This showcases how you can combine basic web technologies to create engaging user experiences.
